@@ -5,3 +5,8 @@
 ```
 $ pip install -r requirements.txt
 ```
+
+# set the api key in the application
+```
+export OPENAI_API_KEY = 'your open ai key'
+```
